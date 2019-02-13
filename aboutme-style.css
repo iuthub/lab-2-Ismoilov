@@ -31,3 +31,9 @@ header span{
 .my-moods img:nth-child(1){
     width: 300px;;
 }
+
+.facts img{
+    border:0;
+    width:88px;
+    height:31px
+}
